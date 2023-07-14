@@ -27,7 +27,8 @@ mikrotik,cap-ac)
 mikrotik,hap-ac3)
 	ucidef_add_gpio_switch "poe_passtrough" "PoE Passthrough" "552" "0"
 	;;
-mikrotik,hap-ac3-lte6-kit)
+mikrotik,hap-ac3-lte6-kit|\
+mikrotik,chateau-lte12)
 	ucidef_add_gpio_switch "lte_ant_sw1" "LTE Antenna SW 1" "557" "0"
 	ucidef_add_gpio_switch "lte_ant_sw2" "LTE Antenna SW 2" "558" "0"
 	ucidef_add_gpio_switch "lte_reset" "LTE reset" "561" "0"
