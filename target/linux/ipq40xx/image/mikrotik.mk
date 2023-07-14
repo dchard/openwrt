@@ -55,6 +55,13 @@ define Device/mikrotik_hap-ac3-lte6-kit
 endef
 TARGET_DEVICES += mikrotik_hap-ac3-lte6-kit
 
+define Device/mikrotik_chateau-lte12
+        $(call Device/mikrotik_nor)
+        DEVICE_MODEL := Chateau LTE12
+        SOC := qcom-ipq4019
+endef
+TARGET_DEVICES += mikrotik_chateau-lte12
+
 define Device/mikrotik_lhgg-60ad
 	$(call Device/mikrotik_nor)
 	DEVICE_MODEL := Wireless Wire Dish LHGG-60ad
