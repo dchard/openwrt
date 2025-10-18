@@ -21,6 +21,7 @@ ipq40xx_setup_interfaces()
 	mikrotik,hap-ac2|\
 	mikrotik,hap-ac3|\
 	mikrotik,hap-ac3-lte6-kit|\
+	mikrotik,chateau-lte12|\
 	p2w,r619ac-64m|\
 	p2w,r619ac-128m|\
 	pakedge,wr-1|\
