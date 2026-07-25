@@ -63,6 +63,7 @@ case "$FIRMWARE" in
 	mikrotik,hap-ac2|\
 	mikrotik,hap-ac3|\
 	mikrotik,hap-ac3-lte6-kit|\
+	mikrotik,chateau-lte12|\
 	mikrotik,wap-ac|\
 	mikrotik,wap-ac-lte|\
 	mikrotik,wap-r-ac)
@@ -130,6 +131,7 @@ case "$FIRMWARE" in
 	mikrotik,hap-ac2|\
 	mikrotik,hap-ac3|\
 	mikrotik,hap-ac3-lte6-kit|\
+	mikrotik,chateau-lte12|\
 	mikrotik,sxtsq-5-ac|\
 	mikrotik,wap-ac|\
 	mikrotik,wap-ac-lte|\
@@ -160,6 +162,7 @@ case "$FIRMWARE" in
 	mikrotik,hap-ac2|\
 	mikrotik,hap-ac3|\
 	mikrotik,hap-ac3-lte6-kit|\
+	mikrotik,chateau-lte12|\
 	mikrotik,wap-ac|\
 	mikrotik,wap-ac-lte|\
 	mikrotik,wap-r-ac)
@@ -175,6 +178,7 @@ case "$FIRMWARE" in
 	mikrotik,hap-ac2|\
 	mikrotik,hap-ac3|\
 	mikrotik,hap-ac3-lte6-kit|\
+	mikrotik,chateau-lte12|\
 	mikrotik,sxtsq-5-ac|\
 	mikrotik,wap-ac|\
 	mikrotik,wap-ac-lte|\
